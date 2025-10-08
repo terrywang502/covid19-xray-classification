@@ -86,8 +86,8 @@ Using the **COVID-19 Radiography Dataset** from Kaggle, the model performs **fou
 ##  How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/covid19-xray-multitask.git
-cd covid19-xray-multitask
+git clone https://github.com/terrywang502/covid19-xray-classification.git
+cd covid19-xray-classification
 
 # Install dependencies
 pip install -r requirements.txt
