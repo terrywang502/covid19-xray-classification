@@ -179,7 +179,12 @@ covid19-xray-classification/
 
 ---
 
+## Presentation
+
+📊 [View the project presentation (PDF)](docs/capstone_presentation.pdf)
+
 ## Author
 
 **Huaizeng (Terry) Wang** — Master of Data Science, Memorial University of Newfoundland
 [LinkedIn](https://linkedin.com/in/terry-wang-767a53382) · [GitHub](https://github.com/terrywang502)
+
